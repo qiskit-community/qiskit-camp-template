@@ -137,7 +137,7 @@ After the presentations, the 3 judges will have an hour for deliberating the hac
  4. Technical complexity.
 
 
-The 1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY.
+The 1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY ⚠️(award).
 
 Also during this time all the participant will vote for the community choice award. Instructions on how to vote will be provided after the presentations.
 

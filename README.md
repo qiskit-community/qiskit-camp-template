@@ -69,7 +69,7 @@ All the proposed projects should make use of some part of Qiskit (including the 
 
 ## Time for pitching the idea
 
-Before the hackathon starts, the first thing to be done on the first day is to pitch all the ideas registered [here](https://github.com/qiskit-community/qiskit-camp-africa-19/issues). The pitch is a 60-second-long exposition  by the original submitter of the idea. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team. The goal is to recruit participant behind your idea. If your idea does not get critical mass, it will be discarded for this hackathon. 
+Before the hackathon starts, the first thing to be done on the first day is to pitch all the ideas registered [here](https://github.com/qiskit-community/qiskit-camp-africa-19/issues)⚠️(link). The pitch is a 60-second-long exposition  by the original submitter of the idea. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team. The goal is to recruit participant behind your idea. If your idea does not get critical mass, it will be discarded for this hackathon. 
 
 ## Team formation
 

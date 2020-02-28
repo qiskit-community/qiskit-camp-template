@@ -1,13 +1,13 @@
 ## Hackathon timetable
 
-The full schedule is available [here](https://community.qiskit.org/events/africa/). 
+The full schedule is available ⚠️(link)[here](https://community.qiskit.org/events/). 
 
 <table>
 <tr><td>
 <table>
 <thead>
 <tr>
-<th colspan="2">Before Dec 12</th>
+<th colspan="2">Before Dec 12 ⚠️(date)</th>
 </tr>
 </thead>
 <tbody>
@@ -18,7 +18,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 <table>
 <thead>
 <tr>
-<th colspan="2">Thursday (Dec 12)</th>
+<th colspan="2">Thursday (Dec 12 ⚠️(date))</th>
 </tr>
 </thead>
 <tbody>
@@ -31,7 +31,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 <table>
 <thead>
 <tr>
-<th colspan="2">Friday (Dec 13)</th>
+<th colspan="2">Friday (Dec 13⚠️(date))</th>
 </tr>
 </thead>
 <tbody>
@@ -61,7 +61,7 @@ Check the [preparation & installation document](preparation%26installation.md) n
     <dt name="collect">I have an idea for the hackathon</dt>
     <dd>
         
-Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
+Open an issue in this repo (using the [`new project`](issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name)⚠️(link) template) and explain your idea in some paragraphs.
 
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
 
@@ -89,13 +89,13 @@ If a participant is assigned to team and she changes her mind, she has to unassi
    <dt name="nothing">None of the existing ideas is suitable for me :(</dt>
 <dd>
 
-If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You want be participating of the competition, but you will contribute and learn a lot!
+If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1)⚠️(link). You want be participating of the competition, but you will contribute and learn a lot!
 
 </dd>
   <dt name="tokill">My team is not reaching the minimum amount of members</dt>
   <dd>
 
-If during the team formation stage your team is not gaining traction (has two or less members) it will be considered a candidate to be closed. It will be [labeled as such](https://github.com/qiskit-community/qiskit-camp-africa-19/labels/candidate%20to%20be%20closed) and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
+If during the team formation stage your team is not gaining traction (has two or less members) it will be considered a candidate to be closed. It will be labeled as such and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
 
 </dd>
   <dt name="full">My team is complete</dt>  
@@ -112,7 +112,7 @@ Once a team reaches 5 members, the issue is labeled as `group is full`. Since 5 
   <dt name="ready">My team is ready. Let's hack!</dt>  
   <dd>
 
-After the project is defined and the team is complete, you can ask an IBMer in the channel `#qiskit-camp-africa` (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished. From this point on, you can use the issue to communicate progress as additional comments.
+After the project is defined and the team is complete, you can ask an IBMer in the channel `#qiskit-camp-africa`⚠️(slack channel) (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished. From this point on, you can use the issue to communicate progress as additional comments.
 
 </dd>
 
@@ -126,7 +126,7 @@ A Qiskit coach will also be your contact point after the hackathon, in case the 
 
 ## It's presentation time!
 
-After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. This article has good advice that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
+After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. [This article](https://medium.com/qiskit/6-tips-for-an-amazing-qiskit-hackathon-presentation-e6cea20ce3b3) has good advice that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
 
 ## It's awards time!
 
